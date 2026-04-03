@@ -109,3 +109,7 @@ section img {
 .resource-list li {
     margin: 8px;
 }
+
+html {
+    font-size: 150%;
+}
