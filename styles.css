@@ -110,6 +110,6 @@ section img {
     margin: 8px;
 }
 
-html {
-    font-size: 150%;
+body {
+    font-size: 1.5em;
 }
